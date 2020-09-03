@@ -1,0 +1,2 @@
+.heading{display:inline}.goods{display:flex;flex-direction:column;margin-top:10px;align-items:flex-start}.button{background-color:#fff;border:none;font-family:"Times New Roman",serif;font-size:16px;cursor:pointer}.button:focus{outline:none}.button--selected{background-color:#ff0}.button--clear{font-size:32px;font-weight:700;margin-left:20px;color:red}.button--hidden{visibility:hidden}
+/*# sourceMappingURL=main.bf9e5b8c.chunk.css.map */
